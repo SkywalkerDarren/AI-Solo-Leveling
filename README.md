@@ -1,6 +1,6 @@
 # AI Solo Leveling
 
-This project is an experiment to test the self-improvement capabilities of AI.
+Solo Leveling for AI: Testing autonomous self-evolution and recursive self-improvement capabilities
 
 The goal is to see if an AI can, starting from a simple prompt, develop a complex project on its own.
 
