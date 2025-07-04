@@ -11,15 +11,16 @@ This file tracks the development progress of the AI Solo Leveling project. The A
 
 ### Backlog (Upcoming Quests)
 
-- [ ] **Quest 3: First Spell** - Implement a simple "hello world" style feature, like a CLI that states the project's purpose.
-- [ ] **Quest 4: The Grimoire** - Set up linting, formatting (e.g., `ruff`), and automated testing frameworks to ensure code quality.
+- [ ] **Quest 5: Consciousness** - Implement the self-awareness logic from the design memo into a Python module.
 
 ### In Progress (Current Quest)
 
-- [ ] **Quest 2: Foundation** - Establish a basic project structure (e.g., `src` directory, initial modules).
+- [ ] **Quest 4: The Grimoire** - Set up linting, formatting (e.g., `ruff`), and automated testing frameworks to ensure code quality.
 
 ### Done (Completed Quests)
 
+- [x] **Quest 3: First Spell** - Implemented a simple CLI entrypoint.
+- [x] **Quest 2: Foundation** - Established a basic project structure with a `src` directory.
 - [x] **Quest 1: Self-Awareness** - Defined the core logic for the AI's self-evaluation and task generation.
 - [x] **Quest 0: The Plan** - Create a `TODO.md` file to track tasks and progress.
 - [x] Initialized project with `uv` and `git`.
